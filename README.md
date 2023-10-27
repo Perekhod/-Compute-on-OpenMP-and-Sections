@@ -1,1 +1,1 @@
-# -Compute-on-OpenMP-and-Sections
+#  "Calculator" on OpenMP and Sections
